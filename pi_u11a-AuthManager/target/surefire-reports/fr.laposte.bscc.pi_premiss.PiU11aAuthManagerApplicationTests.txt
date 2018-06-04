@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: fr.laposte.bscc.pi_premiss.PiU11aAuthManagerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.63 sec - in fr.laposte.bscc.pi_premiss.PiU11aAuthManagerApplicationTests

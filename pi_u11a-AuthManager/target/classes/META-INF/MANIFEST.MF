@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: pi_u11a-AuthManager
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: PEZF178
+Implementation-Vendor-Id: fr.laposte.bscc.pi_premiss
+Build-Jdk: 1.8.0_131
+Implementation-URL: http://projects.spring.io/spring-boot/pi_u11a-Auth
+ Manager/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
